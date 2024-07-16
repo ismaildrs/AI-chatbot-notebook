@@ -1,2 +1,5 @@
 data/
 vectorstore/
+.env
+adaptive_rag.ipynb
+model.ipynb
